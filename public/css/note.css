@@ -1,0 +1,16 @@
+html,body{
+    height:100%;
+    width:100%;
+    margin: 0px;
+    padding: 0px;
+
+}
+.auth{
+  height:30px;
+  width:300px;
+  margin: 0px auto;
+}
+
+table,th,td{
+  border: 1px solid black;
+}
